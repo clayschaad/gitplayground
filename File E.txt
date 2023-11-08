@@ -1,0 +1,3 @@
+My File E
+new new line
+and a line not for the commit
